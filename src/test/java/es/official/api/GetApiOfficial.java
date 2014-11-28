@@ -1,4 +1,4 @@
-package es.official;
+package es.official.api;
 
 import org.elasticsearch.action.get.GetResponse;
 import org.junit.Test;

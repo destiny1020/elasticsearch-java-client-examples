@@ -1,4 +1,4 @@
-package es.official;
+package es.official.api;
 
 import java.io.IOException;
 import java.util.Date;

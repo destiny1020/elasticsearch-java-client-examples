@@ -1,4 +1,4 @@
-package es.official.guide;
+package es.official.guide.agg;
 
 import java.io.IOException;
 

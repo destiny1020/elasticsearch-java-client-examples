@@ -1,4 +1,4 @@
-package es.official.guide;
+package es.official.guide.agg;
 
 import org.elasticsearch.action.search.SearchResponse;
 import org.elasticsearch.action.search.SearchType;

@@ -1,4 +1,4 @@
-package es.official;
+package es.official.api;
 
 import org.elasticsearch.action.count.CountResponse;
 import org.elasticsearch.index.query.QueryBuilders;

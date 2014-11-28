@@ -1,4 +1,4 @@
-package es.official;
+package es.official.api;
 
 import org.elasticsearch.action.delete.DeleteResponse;
 import org.junit.Test;
